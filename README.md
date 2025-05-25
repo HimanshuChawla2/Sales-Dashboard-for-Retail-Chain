@@ -4,25 +4,32 @@ This repository contains a Power BI dashboard analyzing SuperStore sales data by
 
 # Features
 It focuses on the sales by different region for the year 2019/2020, showcasing insights into profit, quantity, and Average delivery days etc.
-Filterable by Region: Central, East, South, West
+
+Filters: Region-based filter (Central, East, South, West) to view region-specific metrics.
 
 Year Selector: Analyze performance by years
 
-KPIs: Profit, Quantity, Sales, and Deliveries
+Key KPIs:
 
-Visual Breakdown:
+-> Profit: $39.7K
 
-Sales & Profit by State (Map + Donut Chart)
+-> Quantity Sold: 8,780 units
 
-Sales by Segment, Category, and Sub-Category
+-> Total Sales: $501K
 
-Monthly Sales Trend
+-> Product Categories: 3 major segments
 
-Sales by Payment Mode
+Visualizations:
 
-Sales by Ship Mode
+~ Sales Trend by Month – Line chart showing monthly sales fluctuations.
+
+~ Sales by State & Map View – Pie chart and geo-map to analyze state-wise sales and profits.
+
+~ Sales by Ship Year, Segment, and Ship Mode – Donut and bar charts highlighting shipping and customer segment insights.
+
+~ Sales by Category and Sub-Category – Bar charts displaying top-performing product categories and sub-categories.
 
 Here is an attached screenshot:
 
-<img width="475" alt="Screenshot-Sales-Dashboard" src="https://github.com/user-attachments/assets/49e2f77d-79d9-4106-b688-5da1b0945b18" />
+![image](https://github.com/user-attachments/assets/2139332b-2cf9-4837-873a-937880c4a56d)
 
